@@ -1,2 +1,2 @@
-# candycrush
+# Candycrush
 CandyCrush in Javascript
